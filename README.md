@@ -71,19 +71,18 @@ def getLocationByIP(request):
 ## Build Notes
 
 ``` bash
-# Clone project 
-git clone https://github.com/LuxionRob/weTube.git
-
+# Clone frontend
+git clone [https://github.com/LuxionRob/weTube.git](https://github.com/TaiTai3006/Weather-Forecast-client.git)
 # Install dependencies
-cd frontend
 npm i
 # Run
 npm start
 # Or build
 npm run build
 
-# Install dependencies
-cd backend 
+
+# Clone frontend
+git clone [https://github.com/TaiTai3006/Weather-Forecast-server.git](https://github.com/TaiTai3006/Weather-Forecast-server.git)
 # Run
 python manage.py runserver
 
